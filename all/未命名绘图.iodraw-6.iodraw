@@ -28,7 +28,7 @@
         <mxCell id="8CtFF1brEhd86WvkjU8I-4" value="vDABPlayStatus工作状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8CtFF1brEhd86WvkjU8I-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8CtFF1brEhd86WvkjU8I-5" value="&amp;nbsp;CDABManager::getInst()-&amp;gt;stop();" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8CtFF1brEhd86WvkjU8I-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8CtFF1brEhd86WvkjU8I-6" target="8CtFF1brEhd86WvkjU8I-14">
@@ -37,8 +37,8 @@
         <mxCell id="8CtFF1brEhd86WvkjU8I-6" value="queryPlayStatus查询播放状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8CtFF1brEhd86WvkjU8I-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="8CtFF1brEhd86WvkjU8I-7" value="writeSerialPortDataAnalysis发送指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="270" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8CtFF1brEhd86WvkjU8I-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8CtFF1brEhd86WvkjU8I-14" target="8CtFF1brEhd86WvkjU8I-16">
           <mxGeometry relative="1" as="geometry" />
