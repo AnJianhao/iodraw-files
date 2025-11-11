@@ -19,11 +19,23 @@
         <mxCell id="O5NAc5jq3hxSX3gQWMiG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O5NAc5jq3hxSX3gQWMiG-4" target="O5NAc5jq3hxSX3gQWMiG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O5NAc5jq3hxSX3gQWMiG-4" target="O5NAc5jq3hxSX3gQWMiG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O5NAc5jq3hxSX3gQWMiG-4" value="&amp;nbsp;updateSubPage(index)根据当前页面读取文件加载信息·" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O5NAc5jq3hxSX3gQWMiG-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-6" value="setHydraulicShearFlow" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O5NAc5jq3hxSX3gQWMiG-9" target="O5NAc5jq3hxSX3gQWMiG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-9" value="setHydraulicShearTitle加载名称" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
