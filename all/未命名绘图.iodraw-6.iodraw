@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="24.7.17">
   <diagram name="第 1 页" id="osPmwtQicZ6h5GQJBJqP">
-    <mxGraphModel dx="999" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="O5NAc5jq3hxSX3gQWMiG-4" value="&amp;nbsp;updateSubPage(index)根据当前页面读取文件加载信息·" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O5NAc5jq3hxSX3gQWMiG-6" value="setHydraulicShearFlow" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-6" value="setHydraulicShearFlow加载各个流量的数值" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5NAc5jq3hxSX3gQWMiG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O5NAc5jq3hxSX3gQWMiG-9" target="O5NAc5jq3hxSX3gQWMiG-11">
@@ -36,6 +36,15 @@
         </mxCell>
         <mxCell id="O5NAc5jq3hxSX3gQWMiG-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-13" value="切换页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="190" as="sourcePoint" />
+            <mxPoint x="150" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
