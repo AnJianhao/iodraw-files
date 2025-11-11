@@ -10,8 +10,20 @@
         <mxCell id="O5NAc5jq3hxSX3gQWMiG-1" value="进入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O5NAc5jq3hxSX3gQWMiG-2" target="O5NAc5jq3hxSX3gQWMiG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O5NAc5jq3hxSX3gQWMiG-2" value="updatePage根据索引更新当前页面信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O5NAc5jq3hxSX3gQWMiG-4" target="O5NAc5jq3hxSX3gQWMiG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-4" value="&amp;nbsp;updateSubPage(index)根据当前页面读取文件加载信息·" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5NAc5jq3hxSX3gQWMiG-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
