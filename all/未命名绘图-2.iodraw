@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="24.7.17">
   <diagram name="第 1 页" id="U9jcHmm2sKT7zaTCseZb">
-    <mxGraphModel dx="999" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1370" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,8 +40,14 @@
         <mxCell id="wrgwNbnHao6h6MxtMxDM-10" value="vDABPlay" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wrgwNbnHao6h6MxtMxDM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wrgwNbnHao6h6MxtMxDM-12" target="wrgwNbnHao6h6MxtMxDM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wrgwNbnHao6h6MxtMxDM-12" value="DABRadioM1:: vDABPlay" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wrgwNbnHao6h6MxtMxDM-14" value="&lt;div&gt;从路径列表中读取MP3&lt;/div&gt;&lt;div&gt;文件&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
