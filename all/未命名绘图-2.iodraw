@@ -19,7 +19,10 @@
         <mxCell id="wrgwNbnHao6h6MxtMxDM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wrgwNbnHao6h6MxtMxDM-4" target="wrgwNbnHao6h6MxtMxDM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wrgwNbnHao6h6MxtMxDM-4" value="&amp;nbsp;m_curModel-&amp;gt;vDABPlay(iSid);&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; vDABPlayStatus();" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wrgwNbnHao6h6MxtMxDM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wrgwNbnHao6h6MxtMxDM-4" target="wrgwNbnHao6h6MxtMxDM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wrgwNbnHao6h6MxtMxDM-4" value="&amp;nbsp;m_curModel-&amp;gt;vDABPlay(iSid);&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; vDABPlayStatus();调用DABRadioTemplate的函数，发送播放状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wrgwNbnHao6h6MxtMxDM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wrgwNbnHao6h6MxtMxDM-6" target="wrgwNbnHao6h6MxtMxDM-8">
@@ -30,6 +33,15 @@
         </mxCell>
         <mxCell id="wrgwNbnHao6h6MxtMxDM-8" value="signalPlayStatus" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="510" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wrgwNbnHao6h6MxtMxDM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wrgwNbnHao6h6MxtMxDM-10" target="wrgwNbnHao6h6MxtMxDM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wrgwNbnHao6h6MxtMxDM-10" value="vDABPlay" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wrgwNbnHao6h6MxtMxDM-12" value="DABRadioM1:: vDABPlay" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
