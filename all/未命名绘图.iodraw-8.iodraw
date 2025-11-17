@@ -37,8 +37,17 @@
         <mxCell id="ongQ1udOSyYkLrcaAFGW-10" value="modbusDataResp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="580" width="310" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="ongQ1udOSyYkLrcaAFGW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ongQ1udOSyYkLrcaAFGW-12" target="ongQ1udOSyYkLrcaAFGW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ongQ1udOSyYkLrcaAFGW-12" value="m_pNetworkManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="275" y="-130" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ongQ1udOSyYkLrcaAFGW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ongQ1udOSyYkLrcaAFGW-14" target="ongQ1udOSyYkLrcaAFGW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ongQ1udOSyYkLrcaAFGW-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
