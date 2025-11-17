@@ -35,7 +35,10 @@
           <mxGeometry x="250" y="390" width="300" height="125" as="geometry" />
         </mxCell>
         <mxCell id="ongQ1udOSyYkLrcaAFGW-10" value="modbusDataResp" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="422.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="580" width="310" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ongQ1udOSyYkLrcaAFGW-12" value="m_pNetworkManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
