@@ -22,8 +22,20 @@
         <mxCell id="UzRO0CSy_IvNnqIDSzKo-4" value="显示两路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UzRO0CSy_IvNnqIDSzKo-6" target="UzRO0CSy_IvNnqIDSzKo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UzRO0CSy_IvNnqIDSzKo-6" value="pConfigManager.getCameraTypeConfig() === 5" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="300" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UzRO0CSy_IvNnqIDSzKo-8" target="UzRO0CSy_IvNnqIDSzKo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-8" value="主页面加载HomePageCamera360.qml" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="430" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
