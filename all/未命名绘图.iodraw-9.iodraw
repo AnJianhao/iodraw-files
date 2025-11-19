@@ -4,8 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UzRO0CSy_IvNnqIDSzKo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UzRO0CSy_IvNnqIDSzKo-1" target="UzRO0CSy_IvNnqIDSzKo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-1" value="选择360环视" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-2" value="选择V7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-3" value="选整车摄像画面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UzRO0CSy_IvNnqIDSzKo-4" target="UzRO0CSy_IvNnqIDSzKo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-4" value="显示两路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-6" value="pConfigManager.getCameraTypeConfig() === 5" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
