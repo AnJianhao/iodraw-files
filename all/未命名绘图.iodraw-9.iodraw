@@ -16,6 +16,9 @@
         <mxCell id="UzRO0CSy_IvNnqIDSzKo-2" value="选择V7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UzRO0CSy_IvNnqIDSzKo-3" target="UzRO0CSy_IvNnqIDSzKo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UzRO0CSy_IvNnqIDSzKo-3" value="选整车摄像画面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="10" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,26 +40,20 @@
         <mxCell id="UzRO0CSy_IvNnqIDSzKo-8" value="主页面加载HomePageCamera360.qml" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="430" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UzRO0CSy_IvNnqIDSzKo-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-10" value="&lt;div&gt;点击放大矩形，根据index&lt;/div&gt;&lt;div&gt;切换视频&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="560" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UzRO0CSy_IvNnqIDSzKo-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UzRO0CSy_IvNnqIDSzKo-12" target="UzRO0CSy_IvNnqIDSzKo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UzRO0CSy_IvNnqIDSzKo-12" value="主页面加载HomePageCamera.qml" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="220" width="240" height="80" as="geometry" />
+          <mxGeometry x="750" y="120" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UzRO0CSy_IvNnqIDSzKo-15" value="点击放大" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-15" value="CameraFullScreenV7.qml" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UzRO0CSy_IvNnqIDSzKo-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UzRO0CSy_IvNnqIDSzKo-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="160" as="sourcePoint" />
-            <mxPoint x="740" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="190" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="UzRO0CSy_IvNnqIDSzKo-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
