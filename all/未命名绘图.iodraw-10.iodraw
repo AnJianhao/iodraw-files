@@ -1,31 +1,31 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="24.7.17">
   <diagram name="第 1 页" id="UNknzRhwGhtN9MdnedmK">
-    <mxGraphModel dx="2023" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1521" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VLNiaymWPkFcTslrtZbl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-2" target="VLNiaymWPkFcTslrtZbl-4">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VLNiaymWPkFcTslrtZbl-2" target="VLNiaymWPkFcTslrtZbl-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-2" value="客户通过手机设定电池预热启动时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-2" value="客户通过手机设定电池预热启动时间" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="20" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-4" value="EVI接收启动时间并转发显示屏" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-4" value="EVI接收启动时间并转发显示屏" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="120" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-8" target="VLNiaymWPkFcTslrtZbl-12">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VLNiaymWPkFcTslrtZbl-8" target="VLNiaymWPkFcTslrtZbl-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-8" value="距离预热的时间小于四小时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-8" value="距离预热的时间小于四小时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="280" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-9" target="VLNiaymWPkFcTslrtZbl-15">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VLNiaymWPkFcTslrtZbl-9" target="VLNiaymWPkFcTslrtZbl-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-9" value="距离预热的时间大于四小时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-9" value="距离预热的时间大于四小时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="280" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-4" target="VLNiaymWPkFcTslrtZbl-8">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VLNiaymWPkFcTslrtZbl-4" target="VLNiaymWPkFcTslrtZbl-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="250" as="sourcePoint" />
             <mxPoint x="380" y="270.71067811865476" as="targetPoint" />
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="VLNiaymWPkFcTslrtZbl-9">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="VLNiaymWPkFcTslrtZbl-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="200" as="sourcePoint" />
             <mxPoint x="460" y="230" as="targetPoint" />
@@ -45,22 +45,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-12" target="VLNiaymWPkFcTslrtZbl-17">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VLNiaymWPkFcTslrtZbl-12" target="VLNiaymWPkFcTslrtZbl-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-12" value="显示屏直接给vcu发送预热指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-12" value="显示屏直接给vcu发送预热指令" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="410" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-15" target="VLNiaymWPkFcTslrtZbl-19">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VLNiaymWPkFcTslrtZbl-15" target="VLNiaymWPkFcTslrtZbl-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-15" value="显示屏给vcu发送时间差" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-15" value="显示屏给vcu发送时间差" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="512.5" y="410" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-17" value="VCU执行预热指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-17" value="VCU执行预热指令" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="510" width="200" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-19" value="VCU倒计时，倒计时结束后执行预热指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-19" value="VCU倒计时，倒计时结束后执行预热指令" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="510" width="210" height="52.5" as="geometry" />
         </mxCell>
       </root>
