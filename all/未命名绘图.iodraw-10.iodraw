@@ -13,10 +13,16 @@
         <mxCell id="VLNiaymWPkFcTslrtZbl-4" value="EVI接收启动时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="120" width="260" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="VLNiaymWPkFcTslrtZbl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-8" target="VLNiaymWPkFcTslrtZbl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VLNiaymWPkFcTslrtZbl-8" value="时间差小于四小时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="280" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VLNiaymWPkFcTslrtZbl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-9" target="VLNiaymWPkFcTslrtZbl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLNiaymWPkFcTslrtZbl-9" value="时间差大于4小时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="280" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VLNiaymWPkFcTslrtZbl-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-4" target="VLNiaymWPkFcTslrtZbl-8">
@@ -38,6 +44,12 @@
               <mxPoint x="615" y="240" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VLNiaymWPkFcTslrtZbl-12" value="直接给vcu发送预热指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLNiaymWPkFcTslrtZbl-15" value="显示屏给vcu发送时间差" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="440" width="205" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
