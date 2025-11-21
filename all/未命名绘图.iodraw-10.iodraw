@@ -45,11 +45,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VLNiaymWPkFcTslrtZbl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-12" target="VLNiaymWPkFcTslrtZbl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VLNiaymWPkFcTslrtZbl-12" value="直接给vcu发送预热指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="440" width="200" height="60" as="geometry" />
+          <mxGeometry x="60" y="410" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLNiaymWPkFcTslrtZbl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VLNiaymWPkFcTslrtZbl-15" target="VLNiaymWPkFcTslrtZbl-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VLNiaymWPkFcTslrtZbl-15" value="显示屏给vcu发送时间差" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="512.5" y="440" width="205" height="60" as="geometry" />
+          <mxGeometry x="512.5" y="410" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLNiaymWPkFcTslrtZbl-17" value="VCU执行预热指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="502.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLNiaymWPkFcTslrtZbl-19" value="VCU倒计时，倒计时结束后执行预热指令" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="500" width="145" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
