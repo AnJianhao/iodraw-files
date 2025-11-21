@@ -13,8 +13,8 @@
         <mxCell id="VLNiaymWPkFcTslrtZbl-4" value="EVI接收启动时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="120" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VLNiaymWPkFcTslrtZbl-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="160" height="80" as="geometry" />
+        <mxCell id="VLNiaymWPkFcTslrtZbl-8" value="时间差小于四小时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VLNiaymWPkFcTslrtZbl-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="280" width="210" height="80" as="geometry" />
@@ -35,7 +35,7 @@
             <mxPoint x="460" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="380" y="240" />
-              <mxPoint x="620" y="240" />
+              <mxPoint x="615" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
