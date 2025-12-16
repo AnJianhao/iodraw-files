@@ -112,7 +112,7 @@
           <mxGeometry x="165" y="1510" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p77eyVezlY_xVoysQaK7-35" value="无启机密码：&lt;span&gt;if (CConfigManager::getInst()-&amp;gt;getStartPwd() == &quot;0000&quot;)&lt;/span&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ExcGlobal::g_pDisplaySendController-&amp;gt;setUserProhibitStartPassword(10);&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//二进制1010&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; else&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ExcGlobal::g_pDisplaySendController-&amp;gt;setUserProhibitStartPassword(5);&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//二进制0101&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="160" width="475" height="260" as="geometry" />
+          <mxGeometry x="880" y="-140" width="475" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
