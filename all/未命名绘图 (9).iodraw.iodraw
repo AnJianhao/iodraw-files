@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="24.7.17">
   <diagram id="7ngSHdbUzXa9DeQsZEOV" name="第 1 页">
-    <mxGraphModel dx="2850" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2023" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,9 +46,6 @@
         </mxCell>
         <mxCell id="p77eyVezlY_xVoysQaK7-15" value="setStartMotor(0)启动机器密码不用验证或已经验证通过，内部使用不发送" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="158.75" y="280" width="332.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="p77eyVezlY_xVoysQaK7-17" value="getOpenStartPasswordRepeat二次弹出启机密码报文，一直发就一直弹" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="-90" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p77eyVezlY_xVoysQaK7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-19" target="p77eyVezlY_xVoysQaK7-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
