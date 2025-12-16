@@ -1,0 +1,120 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="24.7.17">
+  <diagram id="7ngSHdbUzXa9DeQsZEOV" name="第 1 页">
+    <mxGraphModel dx="2850" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p77eyVezlY_xVoysQaK7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-1" value="getOpenStartPasswordFirst控制器(大挖)或PMC(中挖)发送不需要首次弹出启机密码页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-105" y="10" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p77eyVezlY_xVoysQaK7-2" target="p77eyVezlY_xVoysQaK7-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-2" value="bHasFirstOpenedStartSignalPage==false未完成启机密码页面的首次弹出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-150" width="296" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-5" target="p77eyVezlY_xVoysQaK7-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-5" value="工时小于30小时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-5" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-6" value="" style="endArrow=classic;html=1;exitX=0.423;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="p77eyVezlY_xVoysQaK7-2" target="p77eyVezlY_xVoysQaK7-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="-10" as="sourcePoint" />
+            <mxPoint x="380" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p77eyVezlY_xVoysQaK7-7" target="p77eyVezlY_xVoysQaK7-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-7" value="密码为0000" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="10" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="p77eyVezlY_xVoysQaK7-2" target="p77eyVezlY_xVoysQaK7-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="-30" as="sourcePoint" />
+            <mxPoint x="620" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="-110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-9" target="p77eyVezlY_xVoysQaK7-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-9" value="不弹密码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-15" value="setStartMotor(0)启动机器密码不用验证或已经验证通过，内部使用不发送" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="158.75" y="280" width="332.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-17" value="getOpenStartPasswordRepeat二次弹出启机密码报文，一直发就一直弹" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="640" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-19" target="p77eyVezlY_xVoysQaK7-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-19" value="弹出密码页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-21" target="p77eyVezlY_xVoysQaK7-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-21" value="定时器启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-23" target="p77eyVezlY_xVoysQaK7-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-23" value="定时器启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-25" target="p77eyVezlY_xVoysQaK7-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-25" value="动画效果启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-27" target="p77eyVezlY_xVoysQaK7-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-27" value="输入正确密码发送信号" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-29" target="p77eyVezlY_xVoysQaK7-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-29" value="输入正确密码发送信号" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p77eyVezlY_xVoysQaK7-31" target="p77eyVezlY_xVoysQaK7-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-31" value="pConfigManager.setIsVerifyPassword(true);" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="165" y="1350" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-33" value="setAllowStartSignal（10）密码验证成功报文" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="165" y="1510" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p77eyVezlY_xVoysQaK7-35" value="无启机密码：&lt;span&gt;if (CConfigManager::getInst()-&amp;gt;getStartPwd() == &quot;0000&quot;)&lt;/span&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ExcGlobal::g_pDisplaySendController-&amp;gt;setUserProhibitStartPassword(10);&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//二进制1010&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; else&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ExcGlobal::g_pDisplaySendController-&amp;gt;setUserProhibitStartPassword(5);&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;//二进制0101&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="160" width="475" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
